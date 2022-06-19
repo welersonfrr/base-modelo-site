@@ -1,0 +1,81 @@
+#all {
+    background-color: #3a1212;
+}
+
+.logo {
+    max-height: 2.5em;
+}
+
+.navbar .navbar-nav li a {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #cabdb5 !important;
+}
+
+.text {
+    color: #cabdb5;
+    font-size: 20px;
+}
+
+.slide {
+    background-image: linear-gradient( #3a1212 , #74272c, #3a1212)
+}
+
+.carousel-item .img{
+    max-height: 400px;
+}
+
+.my-btn {
+    color: #3a1212 !important;
+    border: 1px solid #3a1212 !important;
+}
+
+.my-btn:hover {
+    box-shadow: 0 0 1em #A57768;
+}
+
+.reserva {
+    background-color: #A57768;
+    color: white;
+    font-size: large;
+}
+
+.extra-info {
+    background-color: #A57768;
+}
+
+.map {
+    min-height: 25em;
+}
+
+.test {
+    background-color: black;
+}
+
+.icon {
+    font-size: 40px !important;
+}
+
+.contato {
+    font-size: 18px;
+}
+
+.f-logo {
+    max-width: 50%;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    color: #cabdb5 !important;
+}
+
+h2, h3, .card-title {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3a1212 !important;
+}
+
+.us {
+    font-family: 'Montserrat', sans-serif;
+    color: #cabdb5;
+}
